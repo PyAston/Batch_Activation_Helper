@@ -1,7 +1,7 @@
-Helper_Version_Number=2
+Helper_Version_Number=1
 
 Download_Link=
 
-Helper_Version=1.2
+Helper_Version=1.0
 
 
