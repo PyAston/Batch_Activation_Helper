@@ -1,7 +1,7 @@
-Helper_Version_Number=1
+Helper_Version_Number=2
 
-Download_Link=
+Download_Link=https://github.com/PyAston/Batch_Activation_Helper/blob/master/program/Activation_Helper.bat
 
-Helper_Version=1.0
+Helper_Version=1.1
 
 
