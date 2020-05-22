@@ -4,4 +4,4 @@ Download_Link=https://github.com/PyAston/Batch_Activation_Helper/blob/master/pro
 
 Helper_Version=1.1
 
-
+Unzip_Password=3r2xtu79
