@@ -1,7 +1,9 @@
 Helper_Version_Number=2
 
-Download_Link=https://s1.ax1x.com/2020/05/29/tnkuND.png
+Download_Link=https://s1.ax1x.com/2020/05/29/tnEmfe.png
 
 Helper_Version=1.1
 
-Unzip_Password=3sauhhqc
+Unzip_Password=5c94hopz
+
+File_Type=zip
